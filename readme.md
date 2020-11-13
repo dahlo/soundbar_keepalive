@@ -1,6 +1,13 @@
 # Soundbar keepalive
 Using SoX v14.4.2 to play a low frequency sound clip that keeps the soundbar from turning off due to inactivity.
 
+# Arch
+Install SoX using pacaur.
+
+```bash
+pacaur -S sox
+```
+
 # Crontab entry
 ```bash
 # keep soundbar alive
