@@ -1,3 +1,6 @@
+# Soundbar keepalive
+Using SoX v14.4.2 to play a low frequency sound clip that keeps the soundbar from turning off due to inactivity.
+
 # Crontab entry
 ```bash
 # keep soundbar alive
